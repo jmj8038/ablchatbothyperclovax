@@ -3,7 +3,7 @@ import time
 import requests
 import streamlit as st
 
-#API_BASE_URL = "http://localhost:8000/chat"
+#API_BASE_URL = "http://localhost:8001/chat"
 API_BASE_URL = 'https://2c69-218-38-115-107.ngrok-free.app/chat'
 #st.title("ABL AI ChtBot")
 
